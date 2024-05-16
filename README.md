@@ -48,6 +48,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="gitlab logo"  />
+    <img width="12" />
+   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOJ5YaEXMg7G6AbzkGiP6GRm8ipTm4huYgdBlMTComhg&s" height="30" alt="gitlab logo"  />
 </div>
 
 ###
