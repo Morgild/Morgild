@@ -68,7 +68,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://morgild.vercel.app/" target="_blank">
-    <img src="https://image.similarpng.com/very-thumbnail/2020/05/Solutions-website-logo-png.png" width="52" height="40" alt="codepen logo"  />
+    <img src="https://i2.wp.com/static.vecteezy.com/system/resources/previews/003/731/316/original/web-icon-line-on-white-background-image-for-web-presentation-logo-icon-symbol-free-vector.jpg" width="52" height="40" alt="codepen logo"  />
   </a>
 </div>
 
